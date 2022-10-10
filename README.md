@@ -4,7 +4,10 @@ Scilab tutorials in SVU.
 
 This repository features scilab tutorials in SVU. I do not own or have any right over some of the content posted over here. This content is purely for the benifit of students.
 
-
+____
+Useful links
+1) https://www.youtube.com/watch?v=AzElVPaS71U
+2) https://matlabsimulation.com/scilab-tutorial-for-beginners-in-pdf/
 _____
 Note for students-
 
